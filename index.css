@@ -114,6 +114,7 @@ Main{
     height: 100px;
     background-color: black;
 }
+
 footer{
     flex-shrink: 0; /*Ne pas réduire la hauteur du footer*/
     background-color: black;
